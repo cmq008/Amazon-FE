@@ -11,3 +11,7 @@ Install below plugins
 2 → SonarQube Scanner (Install without restart)
 
 3 → NodeJs Plugin (Install Without restart)
+
+# Enlace
+
+- [Revisar Enlace](https://blog.devops.dev/amazon-app-deployment-a-devsecops-approach-with-terraform-and-jenkins-ci-cd-5d3c725accd6)
